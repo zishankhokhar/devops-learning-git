@@ -1,4 +1,5 @@
-# Branching Notes (MAIN VERSION — conflict recreation)
+# Branching Notes (conflict-demo version)
+
 
 
 ## What Is a Branch?
