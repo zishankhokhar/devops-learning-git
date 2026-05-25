@@ -1,4 +1,5 @@
-# Branching Notes (MAIN VERSION — conflict recreation)
+# Branching Notes (conflict-demo version)
+
 
 ## What Is a Branch?
 A branch is a separate line of development that allows you to work on new features, experiments, or fixes without affecting the main codebase.  
