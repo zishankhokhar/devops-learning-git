@@ -29,37 +29,16 @@ The goal of this repository is to build a strong understanding of Git workflows 
 
 ## 📘 Topics Covered
 
-### 01. Branching
-
-Creating, switching, and managing branches to isolate work and develop features safely.
-
-### 02. Merging
-
-Combining changes from different branches, including fast-forward merges, three-way merges, and conflict resolution.
-
-### 03. Rebase
-
-Replaying commits on top of another branch to maintain a clean and linear project history.
-
-### 04. Cherry-pick
-
-Applying a specific commit from one branch onto another without merging the entire branch.
-
-### 05. Stash
-
-Temporarily saving uncommitted changes and restoring them later when needed.
-
-### 06. Undo
-
-Using `restore`, `reset`, and `revert` to safely undo changes at different stages of the Git workflow.
-
-### 07. .gitignore
-
-Preventing unnecessary files, folders, and sensitive data from being tracked by Git.
-
-### 08. Pre-commit Hooks
-
-Automating checks and validations before commits to improve code quality and consistency.
+| Note | Topic            | Description                                                                                                          |
+| ---- | ---------------- | -------------------------------------------------------------------------------------------------------------------- |
+| 01   | Branching        | Creating, switching, and managing branches to isolate work and develop features safely.                              |
+| 02   | Merging          | Combining changes from different branches, including fast-forward merges, three-way merges, and conflict resolution. |
+| 03   | Rebase           | Replaying commits on top of another branch to maintain a clean and linear project history.                           |
+| 04   | Cherry-pick      | Applying a specific commit from one branch onto another without merging the entire branch.                           |
+| 05   | Stash            | Temporarily saving uncommitted changes and restoring them later when needed.                                         |
+| 06   | Undo             | Using `restore`, `reset`, and `revert` to safely undo changes at different stages of the Git workflow.               |
+| 07   | .gitignore       | Preventing unnecessary files, folders, and sensitive data from being tracked by Git.                                 |
+| 08   | Pre-commit Hooks | Automating checks and validations before commits to improve code quality and consistency.                            |
 
 ---
 
