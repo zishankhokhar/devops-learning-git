@@ -40,5 +40,6 @@ Fix manually → `git add` → `git commit`.
 - Difference between fast‑forward and 3‑way merges  
 - How to resolve conflicts  
 - How Git marks conflict sections  
+- Why merging is essential for integrating feature work safely.
 
 
